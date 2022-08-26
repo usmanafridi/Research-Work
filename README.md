@@ -27,5 +27,5 @@ Net metering; Distributed Generation; Photovoltaic; LCOE; NPC; IRR; ROI.
 ##### Keywords: 
 Power Transformer, Mathematical Modeling, State Space Vector, MATLAB, Simulink.
 
-###### Download Link: "https://github.com/usmanafridi/Research-Work/blob/main/Peformance%20and%20Economic%20Analysis%20of%20Net%20Metering.pdf"
+###### Download Link: "https://github.com/usmanafridi/Research-Work/blob/main/Mathematical%20modelling%20of%20Power%20Transformer.pdf"
 
