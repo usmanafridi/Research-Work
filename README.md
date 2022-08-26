@@ -13,6 +13,6 @@
 ##### Keywords: 
 Net metering; Distributed Generation; Photovoltaic; LCOE; NPC; IRR; ROI.
 
-
+###### Download Link: "https://github.com/usmanafridi/Research-Work/blob/main/Peformance%20and%20Economic%20Analysis%20of%20Net%20Metering.pdf"
 
 
