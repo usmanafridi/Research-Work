@@ -16,3 +16,16 @@ Net metering; Distributed Generation; Photovoltaic; LCOE; NPC; IRR; ROI.
 ###### Download Link: "https://github.com/usmanafridi/Research-Work/blob/main/Peformance%20and%20Economic%20Analysis%20of%20Net%20Metering.pdf"
 
 
+
+## Conference Paper 2: 
+#### "Mathematical modelling of Power Transformer based on State Space vectors in MATLAB Simulink"
+
+###### Abstract:
+
+<p> A methodology for the mathematical modelling of a power transformer has been proposed. The transformer has been modelled using its symbolic notations and the differential equations in MATLAB Simulink. A20 𝑀𝑉𝐴, 132/ 11 𝐾𝑉, 50 𝐻𝑧 single and three-phase distribution grid transformers have been developed and simulated in Simulink. To enhance the understanding and reduce the complexity of the model alpha-beta state space vector representation has been used for the three-phase transformer in this paper. A model is created that can be effectively used for the analysis of different phenomenon in power transformers like internal winding faults, insulation failures, incipient faults etc. In this study, it is possible to get a closer understanding regarding the mathematical modeling and its significance in analyzing any electrical equipment in the electrical power system. </p>
+
+##### Keywords: 
+Power Transformer, Mathematical Modeling, State Space Vector, MATLAB, Simulink.
+
+###### Download Link: "https://github.com/usmanafridi/Research-Work/blob/main/Peformance%20and%20Economic%20Analysis%20of%20Net%20Metering.pdf"
+
